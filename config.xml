@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "pro.kelar.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. kelar.pro</name>
 
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/461aa44f9c68b2543f6ebd1fac8a0370.png" density="xxhdpi" />
         <icon src="res/android/icon/188a1601f4f76e763655fa546380de4b.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/40d9d60ebe1913e96359236a5b8feaaa.png" density="port-hdpi"/>
-        <splash src="res/android/screen/f9bbe2afdc54b4f1f90d9a5247aa6f46.png" density="port-ldpi"/>
-        <splash src="res/android/screen/8008354a6390440365996a7d01caa17a.png" density="port-mdpi"/>
-        <splash src="res/android/screen/a76bd0c1ed990a66befc98c83a4d2b05.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/3699245e16b1acbadd6158772da0e61f.png" density="port-hdpi"/>
+        <splash src="res/android/screen/42e6698a4413bc4bebfa10b8df9617ac.png" density="port-ldpi"/>
+        <splash src="res/android/screen/483fd969db060ca505a00a42feb377f3.png" density="port-mdpi"/>
+        <splash src="res/android/screen/bafec595fe5d3a169e360fe1cb6bacc2.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
@@ -69,12 +69,12 @@
         <icon src="res/ios/icon/0ae82a244556966e2d8af3f6cdf6cb7f.png" width="87" height="87" />
         <icon src="res/ios/icon/2f071171505928891172281c3fb96ee3.png" width="167" height="167" />
 
-        <splash src="res/ios/screen/f319e1a91669e6fb61445b390fa756c8.png" />
-        <splash src="res/ios/screen/7417ac8615c58a495e457ed1d5d304e1.png" />
-        <splash src="res/ios/screen/64e33355acd970f3f8333b43e3a3bd0a.png" />
-        <splash src="res/ios/screen/7aedcf8fcf69e09e7f0775250bb48602.png" />
-        <splash src="res/ios/screen/f98e85ee21fabfc012844c034a6f470c.png" />
-        <splash src="res/ios/screen/3cf646b0deeacc8b9817b879a8401fbe.png" />
+        <splash src="res/ios/screen/775624901464739a596773f25c0376b9.png" />
+        <splash src="res/ios/screen/9f9846c5d2742403b0e6ffa1a1846d86.png" />
+        <splash src="res/ios/screen/2b18b35485d85272bb85e0c67e95f4a1.png" />
+        <splash src="res/ios/screen/dbc4ab353355610878e5b8e7b2c1f6ea.png" />
+        <splash src="res/ios/screen/6cba87739933f1191cb17294e88d0241.png" />
+        <splash src="res/ios/screen/a5b85b99162d4280efec29cd90774d6d.png" />
     </platform>
 
     <platform name="winphone">
@@ -86,8 +86,8 @@
         <icon src="res/windows/icon/493a6113032ce1db568f34cebd1a3fd1.png" target="Square150x150Logo" />
         <icon src="res/windows/icon/e27af5a65874e0b7f7d700dab21254ae.png" target="Square310x310Logo" />
 
-        <splash src="res/windows/screen/3ba0b4180d77ca07366f42ad8f9bd612.png" target="SplashScreen"/>
-        <splash src="res/windows/screen/522b3bb607754638620e31a98252e45b.png" target="SplashScreenPhone"/>
+        <splash src="res/windows/screen/59a10a43603311c683320710d3d9136b.png" target="SplashScreen"/>
+        <splash src="res/windows/screen/8673355288c644206cd505cc203844bb.png" target="SplashScreenPhone"/>
     </platform>
 
     <access origin='*'/>
